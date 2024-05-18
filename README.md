@@ -24,9 +24,8 @@ The Reaction Tester Game is a fun project built using JavaScript as part of the 
 5. Repeat the process to test and improve your reaction time.
 
 ### Screenshots:
-![Screenshot 2024-05-18 144052](https://github.com/kuldeep2300/Reaction-Tester-Game/assets/155528947/e32e8af5-5932-4b00-9e0d-5430b3d328a0)
-![Screenshot 2024-05-18 144108](https://github.com/kuldeep2300/Reaction-Tester-Game/assets/155528947/e32bf315-dabd-4e7b-8cc6-007e110ec6a8)
-
+![Screenshot 2024-05-18 144052](https://github.com/kuldeep2300/Reaction-Tester-Game/assets/155528947/34280574-6426-4e19-ac53-2ac20bd9e5b8)
+![Screenshot 2024-05-18 144108](https://github.com/kuldeep2300/Reaction-Tester-Game/assets/155528947/6fcd8686-a398-4345-a567-05acf0852159)
 
 ### Installation:
 To run the Reaction Tester Game locally:
